@@ -34,7 +34,7 @@ print : this menuitem is used to print the components of the text area
 
 new : this menuitem is used to create a new blank file
 
-![MasterHead](https://github.com/ojaswisharma16/Creating-a-simple-text-editor-using-Java-/blob/main/images/5te.png)
+![MasterHead](https://github.com/ojaswisharma16/Creating-a-simple-text-editor-using-Java-/blob/main/images/1te.png)
 
 
 Edit menu
@@ -48,7 +48,7 @@ copy: this menuitem is to copy the selected area to the clipboard
 
 paste : this menuitem is to paste the text from the clipboard to the text area
 
-![MasterHead](https://github.com/ojaswisharma16/Creating-a-simple-text-editor-using-Java-/blob/main/images/1te.png)
+![MasterHead](https://github.com/ojaswisharma16/Creating-a-simple-text-editor-using-Java-/blob/main/images/5te.png)
 
 
 Close : this button closes the frame
